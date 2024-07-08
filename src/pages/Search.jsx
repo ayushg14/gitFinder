@@ -1,5 +1,3 @@
-// src/pages/Search.jsx
-
 import React, { useState, useContext } from "react";
 import { FaSearch } from "react-icons/fa";
 import { MdLightMode } from "react-icons/md";
